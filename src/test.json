@@ -1,0 +1,17 @@
+{
+	"data" : [
+		{
+		  "name": "valerii",
+		  "surname": "davydenko",
+		  "phone": "+55454",
+		  "email": "test@email.com"
+		},
+		{
+		  "name": "valerii",
+		  "surname": "davydenko",
+		  "phone": "+55454",
+		  "email": "test@email.com"
+		}
+	]
+  
+}
